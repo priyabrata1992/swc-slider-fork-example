@@ -1,0 +1,11 @@
+{
+  "name": "@wcd/priyabrata1992.swc-slider-fork-lkmfc03t",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve frpteMaw9f7Z1XqNB9PS --open"
+  }
+}
